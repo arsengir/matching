@@ -22,3 +22,5 @@
 * collections
 * sklearn
 * faiss
+# Решение
+Лучшая метрика получилась accuracy@5 около 69%
